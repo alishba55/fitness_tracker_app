@@ -17,13 +17,13 @@
 
 ## 📸 Screenshots
 
-| Home Dashboard | Workout List | Progress Charts | BMI Calculator |
-|:-:|:-:|:-:|:-:|
-| 🏠 | 💪 | 📊 | ⚖️ |
+|                   Home Dashboard                    |                    Workout List                    |
+|:---------------------------------------------------:|:--------------------------------------------------:|
+| <img src="screenshots/dashboard.jpeg" width="250"/> | <img src="screenshots/workouts.jpeg" width="250"/> |
 
-> *(Screenshots coming soon)*
-
----
+|                     Progress Charts                      |                     BMI Calculator                      |
+|:--------------------------------------------------------:|:-------------------------------------------------------:|
+| <img src="screenshots/progresscharts.jpeg" width="250"/> | <img src="screenshots/bmicalculator.jpeg" width="250"/> |
 
 ## ✨ Features
 
